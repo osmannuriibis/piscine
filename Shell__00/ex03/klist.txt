@@ -1,0 +1,5 @@
+Credentials cache: API:83CDA73C-6695-497C-80FD-0BC8350AA85C
+        Principal: oibis@42KOCAELI.COM.TR
+
+  Issued                Expires               Principal
+Sep 27 14:00:41 2021  Sep 28 00:00:41 2021  krbtgt/42KOCAELI.COM.TR@42KOCAELI.COM.TR
